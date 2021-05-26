@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saadahm/Saadahm5/static/css/main.e49fc90d.chunk.css",
+    "main.js": "/Saadahm/Saadahm5/static/js/main.daf5a506.chunk.js",
+    "main.js.map": "/Saadahm/Saadahm5/static/js/main.daf5a506.chunk.js.map",
+    "runtime-main.js": "/Saadahm/Saadahm5/static/js/runtime-main.eff2f497.js",
+    "runtime-main.js.map": "/Saadahm/Saadahm5/static/js/runtime-main.eff2f497.js.map",
+    "static/js/2.d5469680.chunk.js": "/Saadahm/Saadahm5/static/js/2.d5469680.chunk.js",
+    "static/js/2.d5469680.chunk.js.map": "/Saadahm/Saadahm5/static/js/2.d5469680.chunk.js.map",
+    "static/js/3.0f592eeb.chunk.js": "/Saadahm/Saadahm5/static/js/3.0f592eeb.chunk.js",
+    "static/js/3.0f592eeb.chunk.js.map": "/Saadahm/Saadahm5/static/js/3.0f592eeb.chunk.js.map",
+    "index.html": "/Saadahm/Saadahm5/index.html",
+    "static/css/main.e49fc90d.chunk.css.map": "/Saadahm/Saadahm5/static/css/main.e49fc90d.chunk.css.map",
+    "static/js/2.d5469680.chunk.js.LICENSE.txt": "/Saadahm/Saadahm5/static/js/2.d5469680.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eff2f497.js",
+    "static/js/2.d5469680.chunk.js",
+    "static/css/main.e49fc90d.chunk.css",
+    "static/js/main.daf5a506.chunk.js"
+  ]
+}
